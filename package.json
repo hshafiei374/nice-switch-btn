@@ -1,0 +1,17 @@
+{
+  "name": "nice-switch-btn",
+  "version": "1.0.2",
+  "description": "a nice switch btn",
+  "keywords": [
+    "nice",
+    "switch",
+    "btn",
+    "button"
+  ],
+  "main": "SwitchBtn.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hossein Shafiei",
+  "license": "MIT"
+}
